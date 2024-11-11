@@ -1,39 +1,39 @@
-# Graphic Summarization of Article
+# 논문 그래픽 요약
 
-## Problem Identification and Analysis
-After researching existing platforms like GitHub and FreshCode Club, we've identified a gap in the market for an intuitive, visually engaging tool that represents a keyword map of an article. While there are services that provide article summarization or keyword-based recommendations, tools that visually map the relationships between keywords within an article are lacking. This presents an opportunity to create a more user-friendly and visually appealing tool utilizing advanced AI models, such as Retrieval-Augmented Generation (RAG).
+## 문제 정의 및 분석
+GitHub, FreshCode Club과 같은 플랫폼을 조사한 결과, 논문 요약 또는 키워드 기반 추천 기능을 제공하는 서비스는 존재하지만, 논문 내 키워드 관계를 시각적으로 표현하는 직관적인 도구는 부족하다는 점을 발견했습니다. 이는 Retrieval-Augmented Generation (RAG)과 같은 고급 AI 모델을 활용하여 사용자 친화적이고 시각적으로 매력적인 도구를 개발할 기회를 제공합니다.
 
-## Project Name and Branding
-**Project Name**: Graphic Summarization of Article
+## 프로젝트 이름 및 브랜딩
+**프로젝트 이름**: 논문 그래픽 요약
 
-## Mission Statement
-**Objective**: To provide a graphical summary of PDF-based articles in the form of a keyword network using a Retrieval-Augmented Generation (RAG) system.
+## 미션 스테이트먼트
+**목적**: PDF 기반 논문을 키워드 네트워크 형태로 요약하여 시각적으로 제공하는 Retrieval-Augmented Generation (RAG) 시스템을 구축합니다.
 
-**Target Audience**: Students and researchers who seek a quick and efficient understanding of academic articles.
+**대상 사용자**: 학술 논문을 빠르고 효율적으로 이해하고자 하는 학생 및 연구자
 
-### Key Features
-1. **Automatic Keyword Extraction**: Utilizes state-of-the-art AI within the RAG framework to extract important keywords from uploaded articles.
-2. **Visual Keyword Mapping**: Generates an interactive network map that displays relationships and hierarchy between keywords, providing an intuitive overview of the article's main concepts.
-3. **Contextual Summaries**: Each keyword node presents contextual summaries from the article, aiding users in understanding each keyword’s significance within the overall document.
+### 주요 기능
+1. **자동 키워드 추출**: RAG 프레임워크를 활용하여 업로드된 논문에서 중요한 키워드를 자동으로 추출합니다.
+2. **시각적 키워드 맵핑**: 키워드 간의 관계와 계층을 시각화하는 인터랙티브 네트워크 맵을 생성하여 논문의 주요 개념을 직관적으로 파악할 수 있습니다.
+3. **맥락적 요약 제공**: 각 키워드 노드에서 논문 내 관련 문장의 요약을 제공하여, 사용자가 전체 문서에서 해당 키워드의 중요성을 이해할 수 있도록 돕습니다.
 
-## Development Tools and Languages
-- **Automatic Keyword Extraction**
-  - **Languages**: Python
-  - **Libraries**: Transformers, spaCy, RAG
+## 개발 도구 및 언어
+- **자동 키워드 추출**
+  - **언어**: Python
+  - **라이브러리**: Transformers, spaCy, RAG
 
-- **Visual Keyword Mapping**
-  - **Languages**: Python (backend), React (frontend)
-  - **Libraries**: D3.js, Cytoscape.js, NetworkX
+- **시각적 키워드 맵핑**
+  - **언어**: Python (백엔드), React (프론트엔드)
+  - **라이브러리**: D3.js, Cytoscape.js, NetworkX
 
-- **Contextual Summaries**
-  - **Languages**: Python
-  - **Libraries**: Transformers, spaCy
+- **맥락적 요약 제공**
+  - **언어**: Python
+  - **라이브러리**: Transformers, spaCy
 
-## Team Responsibilities
-- **김채영**: Lead Developer (Backend development, AI model integration, collaborates with frontend developer)
-- **유 민**: Co-Developer (Frontend development, visualization implementation, collaborates with backend developer)
-- **김범준**: Test & Bug-Reporter (Test case development, bug detection, collaborates with developers)
+## 팀 역할
+- **김채영**: 리드 개발자 (백엔드 개발, AI 모델 통합, 프론트엔드 개발자와 협업)
+- **유 민**: 공동 개발자 (프론트엔드 개발, 시각화 구현, 백엔드 개발자와 협업)
+- **김범준**: 테스트 및 버그 리포터 (테스트 케이스 개발, 버그 탐지, 개발 팀과 협업)
 
 ---
 
-This project provides a novel approach to understanding academic articles quickly and visually, making it an essential tool for students and researchers alike.
+이 프로젝트는 학생과 연구자가 학술 논문을 빠르고 시각적으로 이해할 수 있도록 지원하는 새로운 접근 방식을 제공합니다.
