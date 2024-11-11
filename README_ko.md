@@ -29,6 +29,13 @@ GitHub, FreshCode Club과 같은 플랫폼을 조사한 결과, 논문 요약 �
   - **언어**: Python
   - **라이브러리**: Transformers, spaCy
 
+## 팀6: 김채영, 유민, 김범준
+
+**계정 링크**
+- [김채영 GitHub](https://github.com/yoooousir)
+- [유민 GitHub](https://github.com/tarcer12)
+- [김범준 GitHub](https://github.com/tigerjun5199)
+- 
 ## 팀 역할
 - **김채영**: 리드 개발자 (백엔드 개발, AI 모델 통합, 프론트엔드 개발자와 협업)
 - **유 민**: 공동 개발자 (프론트엔드 개발, 시각화 구현, 백엔드 개발자와 협업)
@@ -36,4 +43,5 @@ GitHub, FreshCode Club과 같은 플랫폼을 조사한 결과, 논문 요약 �
 
 ---
 
-이 프로젝트는 학생과 연구자가 학술 논문을 빠르고 시각적으로 이해할 수 있도록 지원하는 새로운 접근 방식을 제공합니다.
+## 프로젝트 설명
+이 프로젝트는 Jekyll과 오픈 소스를 활용하여 정적 웹사이트를 구축하는 것을 목표로 합니다.
