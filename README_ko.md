@@ -33,7 +33,7 @@ GitHub, FreshCode Club과 같은 플랫폼을 조사한 결과, 논문 요약 �
 
 **계정 링크**
 - [김채영 GitHub](https://github.com/yoooousir)
-- [유민 GitHub](https://github.com/tarcer12)
+- [유민 GitHub](https://github.com/tracer12)
 - [김범준 GitHub](https://github.com/tigerjun5199)
 - 
 ## 팀 역할
